@@ -1,6 +1,6 @@
 # Rari Capital
 
-Rari Capital is a suite of decentralized finance protocols on a mission to bridge the gap between technical and non-technical minds, in order to bring the next wave of mass users into this industry.
+Rari Capital is a suite of decentralized finance protocols on a mission to bridge the gap between technical and non-technical minds, in order to bring the next wave of mass users into this industry. Read more at https://info.rari.capital/.
 
 ## Repositories
 
